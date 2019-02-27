@@ -2,8 +2,6 @@
 
 <html class="no-js" lang="en-US">
 
-
-<!-- Mirrored from demos.jeweltheme.com/courseware/index-02.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 22 Feb 2019 14:44:32 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -56,57 +54,11 @@
                         <div class="collapse navbar-collapse" id="main-menu">
                             <ul class="navbar-nav">
                                 <li class="nav-item menu-item-has-children dropdown active">
-                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Demos</a>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="index.html">Demo 01</a>
-                                        <a class="dropdown-item" href="index-02.html">Demo 02</a>
-                                        <a class="dropdown-item" href="index-03.html">Demo 03</a>
-                                        <a class="dropdown-item" href="index-04.html">Demo 04</a>
-                                    </div>
+                                    <a class="nav-link" href="#">Inicio</a>
                                 </li>
 
                                 <li class="nav-item menu-item-has-children dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses</a>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="courses.html">All Courses</a>
-                                        <a class="dropdown-item" href="course-single-01.html">Course single 01</a>
-                                        <a class="dropdown-item" href="course-single-02.html">Course single 02</a>
-                                    </div>
-                                </li>
-
-                                <li class="nav-item menu-item-has-children dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Instructors</a>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="instructors.html">All Instructors</a>
-                                        <a class="dropdown-item" href="instructor-single.html">Instructor Single</a>
-                                    </div>
-                                </li>
-
-                                <li class="nav-item menu-item-has-children dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="blog.html">Blog Posts</a>
-                                        <a class="dropdown-item" href="single.html">Blog single</a>
-                                    </div>
-                                </li>
-
-                                <li class="nav-item menu-item-has-children dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="404.html">404 Error</a>
-                                        <a class="dropdown-item" href="about.html">About</a>
-                                        <a class="dropdown-item" href="coming-soon.html">Coming Soon</a>
-                                        <a class="dropdown-item" href="contact.html">Contact</a>
-                                        <a class="dropdown-item" href="events.html">Events</a>
-                                        <a class="dropdown-item" href="event-details.html">Event Details</a>
-                                        <a class="dropdown-item" href="faq.html">FAQ</a>
-                                        <a class="dropdown-item" href="portfolio.html">Portfolio</a>
-                                        <a class="dropdown-item" href="portfolio-single.html">Portfolio Single</a>
-                                        <a class="dropdown-item" href="login.html">Login</a>
-                                        <a class="dropdown-item" href="register.html">Register</a>
-                                        <a class="dropdown-item" href="shop.html">Shop</a>
-                                        <a class="dropdown-item" href="shop-single.html">Shop Single</a>
-                                    </div>
+                                    <a class="nav-link" href="#">Categorias</a>
                                 </li>
                             </ul>
                         </div>
