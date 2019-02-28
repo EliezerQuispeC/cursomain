@@ -6,14 +6,14 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="widget widget_about_us">
                                 <!-- <h4>Courseware</h4> -->
-                                <img class="footer-logo" src="images/logo2.png" alt="Site Logo">
+                                <h1>MainGlobal Courses</h1>
                                 <div class="widget-details">
                                     <p>
-                                        We are a team of different geeks that believe in producing top-quality courses and category based on best videos. 
+                                        Brindamos educación actualizada al alcance de todos.
                                     </p>
                                     <ul>
-                                        <li> <i class="fa fa-phone-square"></i> 088 12345 67890</li>
-                                        <li> <i class="fa fa-envelope-square"></i> <a href="#"> info@courseware.com</a></li>
+                                        <li> <i class="fa fa-phone-square"></i> 950000000 </li>
+                                        <li> <i class="fa fa-envelope-square"></i> <a href="#"> info@mainglobal.com.pe</a></li>
                                     </ul>
                                     <div class="widget-social text-center">
                                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -36,14 +36,13 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="copy-right float-left">
-                                <span> Copyright © 2018 <a href="https://demos.jeweltheme.com/courseware" target="_blank" rel="nofollow">Courseware</a>, All rights reservs  </span>
+                                <span> Copyright © 2018 <a href="https://demos.jeweltheme.com/courseware" target="_blank" rel="nofollow">MainGlobal</a>, Todos los derechos reservados</span>
                             </div><!-- /.copy-right -->
                         </div>
                         <div class="col-md-4">
                             <ul class="menu float-right">
-                                <li class="menu-item"><a href="#"> Privacy</a></li>
-                                <li class="menu-item"><a href="#"> Terms</a></li>
-                                <li class="menu-item"><a href="#"> Sitemap</a></li>
+                                <li class="menu-item"><a href="#"> Privacidad</a></li>
+                                <li class="menu-item"><a href="#"> Terminos y condiciones</a></li>
                             </ul>
                         </div>
                     </div><!-- /.row -->
@@ -60,6 +59,7 @@
     <script src="assets/js/jquery-3.3.1.min.js"></script>
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/jquery.selectric.js"></script>
 
     <script>
         $(document).ready(function() {
@@ -71,6 +71,11 @@
             $(".top-contact .close").on("click", function(e){ 
               $(this).parent('.top-contact').removeClass('togglecontact');
             });
+        });
+    </script>
+    <script>
+        $(function() {
+            $('.filter-select').selectric();
         });
     </script>
 

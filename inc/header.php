@@ -26,6 +26,8 @@
     <!-- Import Owl Carousel CSS File -->
 
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/selectric.css">
 
     <!-- TimeTo Countdown CSS Files --> 
     <link rel="stylesheet" href="assets/css/timeTo.css">
@@ -54,11 +56,11 @@
                         <div class="collapse navbar-collapse" id="main-menu">
                             <ul class="navbar-nav">
                                 <li class="nav-item menu-item-has-children dropdown active">
-                                    <a class="nav-link" href="#">Inicio</a>
+                                    <a class="nav-link" href="<?php echo SITE_ROOT ?>">Inicio</a>
                                 </li>
 
                                 <li class="nav-item menu-item-has-children dropdown">
-                                    <a class="nav-link" href="#">Categorias</a>
+                                    <a class="nav-link" href="?page=categorias">Categorias</a>
                                 </li>
                             </ul>
                         </div>
