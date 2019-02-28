@@ -40,7 +40,7 @@
                             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                 <a class="nav-item nav-link active" id="nav-1" data-toggle="tab" href="#description" role="tab" aria-controls="description" aria-selected="true">Descripción</a>
                                 <a class="nav-item nav-link" id="nav-2" data-toggle="tab" href="#curriculum" role="tab" aria-controls="curriculum" aria-selected="false">Curriculum</a>
-                                <a class="nav-item nav-link" id="nav-4" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false">Reviews</a>
+                                <a class="nav-item nav-link" id="nav-4" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false">Calificación</a>
                             </div>
 
                             <div class="tab-content" id="nav-tabContent">
@@ -67,72 +67,67 @@
                                     <h4 class="title">Plan de estudios</h4>
                                     <div class="curriculum-details">
                                         <div class="content-table">
-                                            <span class="title">Getting Started: Itroduction</span>
+                                            <span class="title">SESIÓN 01: CONCEPTOS BÁSICOS Y DESCRIPCIÓN DEL ENTORNO</span>
                                             <ul class="content-list">
                                                 <li>
-                                                    <span class="float-left"><a href="#"><i class="far fa-file"></i> Photoshop Interface - just the useful stuff!</a></span>
-                                                    <span class="float-right">1.5MB</span>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Conceptos Básicos acerca de la Hoja de Cálculo Electrónica</a></span>
+                                                    <span class="float-right">8:31</span>
                                                 </li>
                                                 <li>
-                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> User interface explained</a></span>
-                                                    <span class="float-right">8:31</span>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Cronología de las Hojas de cálculo</a></span>
+                                                    <span class="float-right">5:31</span>
+                                                </li>
+                                                <li>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Descripción del entorno de la hoja de cálculo</a></span>
+                                                    <span class="float-right">7:02</span>
                                                 </li>
                                             </ul>
                                         </div><!-- /.content-table -->
 
                                         <div class="content-table">
-                                            <span class="title">Paint Brush Tool</span>
+                                            <span class="title">SESIÓN 02: PERSONALIZACIÓN DEL ENTORNO DE EXCEL</span>
                                             <ul class="content-list">
                                                 <li>
-                                                    <span class="float-left"><a href="#"><i class="far fa-file"></i> Photoshop Interface - just the useful stuff!</a></span>
-                                                    <span class="float-right">1.5MB</span>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Personalizar la barra de herramientas de acceso rápido.</a></span>
+                                                    <span class="float-right">4:22</span>
                                                 </li>
                                                 <li>
-                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> User interface explained</a></span>
-                                                    <span class="float-right">8:31</span>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Contenido de la hoja tabular.</a></span>
+                                                    <span class="float-right">1:31</span>
+                                                </li>
+                                                <li>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Personalizar interfaz del entorno clásico de Excel.</a></span>
+                                                    <span class="float-right">5:31</span>
                                                 </li>
                                             </ul>
                                         </div><!-- /.content-table -->
 
                                         <div class="content-table">
-                                            <span class="title">Moving, Resizing & Zooming In</span>
+                                            <span class="title">  SESIÓN 03: CÓMO DIGITAR EN EXCEL 2016 - I PARTE</span>
                                             <ul class="content-list">
                                                 <li>
-                                                    <span class="float-left"><a href="#"><i class="far fa-file"></i> Photoshop Interface - just the useful stuff!</a></span>
-                                                    <span class="float-right">1.5MB</span>
-                                                </li>
-                                                <li>
-                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> User interface explained</a></span>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Como digitar en Excel</a></span>
                                                     <span class="float-right">754kb</span>
                                                 </li>
                                                 <li>
-                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> User interface explained</a></span>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Modificar, corregir editar el contenido de una celda</a></span>
+                                                    <span class="float-right">8:31</span>
+                                                </li>
+                                                <li>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Digitación de Textos</a></span>
+                                                    <span class="float-right">8:31</span>
+                                                </li>
+                                                <li>
+                                                    <span class="float-left"><a href="#"><i class="fa fa-play-circle"></i> Digitación de Números</a></span>
                                                     <span class="float-right">8:31</span>
                                                 </li>
                                             </ul>
                                         </div><!-- /.content-table -->
                                     </div><!-- /.curriculum-details -->
                                 </div>
-
-                                <div class="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor">
-                                    <div class="author-bio">
-                                        <h3 class="title">About the Instructor</h3>
-                                        <div class="author-contents media">
-                                            <div class="author-avatar float-left"><img class="radius" src="images/au.jpg" alt="Avatar"></div><!-- /.author-avatar -->
-                                            <div class="author-details media-body">
-                                                <h3 class="name"><a href="#">Julia Adams</a></h3>
-                                                <span>UX Consultant and Web Design Instructor</span>
-                                                <p>
-                                                    There was a painful and uncontrollable squeaking mixed in with it, the words could be made out at first but then there was a sort of echo which made them unclear, leaving the hearer unsure whether he had heard properly or not.
-                                                </p>
-                                                <a href="#" class="load-more">Learn more <i class="fa fa-angle-double-right"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                                 
                                 <div class="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews">
-                                    <h3 class="title">Student Reviews</h3>
+                                    <h3 class="title">Calificación del curso</h3>
 
                                     <div class="course-reviews">
                                         <div class="row">
@@ -206,146 +201,60 @@
                                                 </div><!-- /.rating-icons -->
                                             </div>
                                         </div>
-
-                                        <div class="review-contents">
-                                            <ol class="review-list">
-                                                <li class="review">
-                                                    <div class="row">
-                                                        <div class="col-md-5">
-                                                            <div class="media">
-                                                                <img class="rounded-circle author-avatar" src="images/comments/1.jpg" alt="RAvatar">
-                                                                <div class="author-details media-body">
-                                                                    <span class="time">3 days ago</span>
-                                                                    <h3 class="name"><a href="#">Cheryl Burns</a></h3><!-- /.name -->
-                                                                </div><!-- /.author-details -->
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-7">
-                                                            <div class="review-details">
-                                                                <h3 class="title">Awesome Learning Site</h3><!-- /.title -->
-                                                                <div class="rating">
-                                                                    <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="5" data-fractions="5"/>
-                                                                </div><!-- /.rating -->
-                                                                <p>
-                                                                    Gregor had wanted to give a full answer and explain everything but in the circumstances contented himself with saying- I’m getting up now.
-                                                                </p>
-                                                            </div><!-- /.review-details -->
-                                                        </div>
-                                                    </div>
-                                                </li><!-- /.review -->
-
-                                                <li class="review">
-                                                    <div class="row">
-                                                        <div class="col-md-5">
-                                                            <div class="media">
-                                                                <img class="rounded-circle author-avatar" src="images/comments/2.jpg" alt="RAvatar">
-                                                                <div class="author-details media-body">
-                                                                    <span class="time">3 days ago</span>
-                                                                    <h3 class="name"><a href="#">Bobby Newman</a></h3><!-- /.name -->
-                                                                </div><!-- /.author-details -->
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-7">
-                                                            <div class="review-details">
-                                                                <h3 class="title">Great in-depth explanations</h3><!-- /.title -->
-                                                                <div class="rating">
-                                                                    <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="5" data-fractions="5"/>
-                                                                </div><!-- /.rating -->
-                                                                <p> 
-                                                                    The change in Gregor’s voice probably could not be noticed outside through the wooden door, as his mother was satisfied with this explanation and shuffled away
-                                                                </p>
-                                                            </div><!-- /.review-details -->
-                                                        </div>
-                                                    </div>
-                                                </li><!-- /.review -->
-
-                                                <li class="review">
-                                                    <div class="row">
-                                                        <div class="col-md-5">
-                                                            <div class="media">
-                                                                <img class="rounded-circle author-avatar" src="images/comments/3.jpg" alt="RAvatar">
-                                                                <div class="author-details media-body">
-                                                                    <span class="time">3 days ago</span>
-                                                                    <h3 class="name"><a href="#">Philip Bell</a></h3><!-- /.name -->
-                                                                </div><!-- /.author-details -->
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-7">
-                                                            <div class="review-details">
-                                                                <h3 class="title">Really enjoyed this course</h3><!-- /.title -->
-                                                                <div class="rating">
-                                                                    <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="5" data-fractions="5"/>
-                                                                </div><!-- /.rating -->
-                                                                <p>
-                                                                    But this short conversation made the other members of the family aware that Gregor, against their expectations was still at home, and soon his father came knocking at one of the side doors gently but with his fist
-                                                                </p>
-                                                            </div><!-- /.review-details -->
-                                                        </div>
-                                                    </div>
-                                                </li><!-- /.review -->
-                                            </ol><!-- /.review-list -->
-                                        </div><!-- /.review-contents -->
                                     </div>
-
-                                    <div class="btn-container mt-4 text-center">
-                                        <a href="#" class="btn btn-lg">Show more</a>
-                                    </div><!-- /.btn-container -->
                                 </div>
                             </div>
                         </div><!-- /.course-single-details -->
 
 
                         <div class="related-courses">
-                            <h2 class="section-title">Related Courses</h2>
+                            <h2 class="section-title">Cursos similares</h2>
                             <div class="course-items">
                                 <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="item">
-                                            <div class="item-thumb"><img src="images/popular/1.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
-                                            <div class="item-details">
-                                                <h3 class="item-title"><a href="course-single-01.html">HTML5, CSS3, Bootstrap Web Design for Beginners</a></h3><!-- /.item-title -->
-                                                <span class="instructor"><a href="#">Justin Marks</a></span><!-- /.instructor -->
-                                                <div class="details-bottom">
-                                                    <div class="course-price float-left"><span class="currency">$</span><span class="price">15.99</span></div><!-- /.course-price -->
-                                                    <div class="rating float-right">
-                                                        <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/>
-                                                    </div><!-- /.rating -->
-                                                </div><!-- /.details-bottom -->
-                                            </div><!-- /.item-details -->
-                                        </div><!-- /.item -->
-                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                    <div class="item">
+                                        <div class="item-thumb"><img src="images/cursos/civil3d.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
+                                        <div class="item-details">
+                                            <h3 class="item-title"><a href="?page=curso">Civil 3D 2019</a></h3><!-- /.item-title -->
+                                            <div class="details-bottom">
+                                                <div class="course-price float-left"><span class="currency">S/.</span><span class="price">500</span></div><!-- /.course-price -->
+                                                <div class="rating float-right">
+                                                    <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/>
+                                                </div><!-- /.rating -->
+                                            </div><!-- /.details-bottom -->
+                                        </div><!-- /.item-details -->
+                                    </div><!-- /.item -->
+                                </div>
 
-                                    <div class="col-md-4">
-                                        <div class="item">
-                                            <div class="item-thumb"><img src="images/popular/2.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
-                                            <div class="item-details">
-                                                <h3 class="item-title"><a href="course-single-01.html">Modern JavaScript From The Beginning</a></h3><!-- /.item-title -->
-                                                <span class="instructor"><a href="#">Justin Marks</a></span><!-- /.instructor -->
-                                                <div class="details-bottom">
-                                                    <div class="course-price float-left"><span class="currency">$</span><span class="price">15.99</span></div><!-- /.course-price -->
-                                                    <div class="rating float-right">
-                                                        <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/>
-                                                    </div><!-- /.rating -->
-                                                </div><!-- /.details-bottom -->
-                                            </div><!-- /.item-details -->
-                                        </div><!-- /.item -->
-                                    </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="item">
+                                        <div class="item-thumb"><img src="images/cursos/msexcel.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
+                                        <div class="item-details">
+                                            <h3 class="item-title"><a href="?page=curso">MS Excel 2019 para Contabilidad</a></h3><!-- /.item-title -->
+                                            <div class="details-bottom">
+                                                <div class="course-price float-left"><span class="currency">S/.</span><span class="price">300</span></div><!-- /.course-price -->
+                                                <div class="rating float-right">
+                                                    <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/>
+                                                </div><!-- /.rating -->
+                                            </div><!-- /.details-bottom -->
+                                        </div><!-- /.item-details -->
+                                    </div><!-- /.item -->
+                                </div>
 
-                                    <div class="col-md-4">
-                                        <div class="item">
-                                            <div class="item-thumb"><img src="images/popular/3.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
-                                            <div class="item-details">
-                                                <h3 class="item-title"><a href="course-single-01.html">Learn Your Own Blockchain In JavaScript</a></h3><!-- /.item-title -->
-                                                <span class="instructor"><a href="#">Justin Marks</a></span><!-- /.instructor -->
-                                                <div class="details-bottom">
-                                                    <div class="course-price float-left"><span class="currency">$</span><span class="price">15.99</span></div><!-- /.course-price -->
-                                                    <div class="rating float-right">
-                                                        <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/>
-                                                    </div><!-- /.rating -->
-                                                </div><!-- /.details-bottom -->
-                                            </div><!-- /.item-details -->
-                                        </div><!-- /.item -->
-                                    </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="item">
+                                        <div class="item-thumb"><img src="images/cursos/msexcel.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
+                                        <div class="item-details">
+                                            <h3 class="item-title"><a href="?page=curso">MS Excel 2019 para Ingenierias</a></h3><!-- /.item-title -->
+                                            <div class="details-bottom">
+                                                <div class="course-price float-left"><span class="currency">S/.</span><span class="price">300</span></div><!-- /.course-price -->
+                                                <div class="rating float-right">
+                                                    <input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/>
+                                                </div><!-- /.rating -->
+                                            </div><!-- /.details-bottom -->
+                                        </div><!-- /.item-details -->
+                                    </div><!-- /.item -->
+                                </div>
 
                                 </div><!-- /.row -->
                             </div><!-- /.course-items -->
@@ -354,16 +263,16 @@
 
                     <div class="col-md-4">
                         <aside class="sidebar">
-                            <button class="btn btn-lg enroll-btn">Enroll now</button>
+                            <button class="btn btn-lg enroll-btn">Añadir al carrito</button>
 
                             <div class="info">
                                 <ul class="info-list">
-                                    <li><span class="price">Free</span></li>
-                                    <li><span>13 Hours on-demand video</span></li>
-                                    <li><span>11 Lectures</span></li>
-                                    <li><span>3 Quizes</span></li>
-                                    <li><span>4,873 Students enrolled</span></li>
-                                    <li><span>Certificate on Completion</span></li>
+                                    <li><span class="price">S/.200</span></li>
+                                    <li><span>20 horas de video</span></li>
+                                    <li><span>12 Lecturas</span></li>
+                                    <li><span>5 Evaluaciones</span></li>
+                                    <li><span>4,873 estudiantes inscritos</span></li>
+                                    <li><span>Certificación al completar el curso</span></li>
                                 </ul>
                             </div>
                         </aside><!-- /.sidebar -->

@@ -60,6 +60,7 @@
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/jquery.selectric.js"></script>
+    <script src="assets/js/jquery-ui.min.js"></script> 
 
     <script>
         $(document).ready(function() {

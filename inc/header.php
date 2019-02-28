@@ -42,6 +42,9 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 
+    <!-- WooCommerce -->
+    <link rel="stylesheet" href="assets/css/woocommerce.css">
+
 </head> 
 <body> 
     <header class="masthead">
@@ -90,13 +93,13 @@
                                     <div class="item media">
                                         <button class="btn close-btn"><i class="icons icon-close"></i></button>
                                         <div class="item-thumbnail">
-                                            <img src="images/shop/1.jpg" alt="Item Thimbnail">
+                                            <img src="images/cursos/msexcel.jpg" alt="Item Thimbnail">
                                         </div><!-- /.item-thumbnail -->
                                         <div class="item-details media-body">
                                             <div class="rating"><input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/></div><!-- /.rating -->
-                                            <h4 class="item-title"><a href="#">Product Name Here</a></h4><!-- /.item-title -->
+                                            <h4 class="item-title"><a href="#">MS Excel 2019</a></h4><!-- /.item-title -->
                                             <div class="price">
-                                                <span class="current-price">$15.99</span><!-- /.current-price -->
+                                                <span class="current-price">S/. 200</span><!-- /.current-price -->
                                             </div><!-- /.price -->
                                             <span class="item-count">3</span>
                                         </div><!-- /.item-details -->
@@ -105,14 +108,14 @@
                                     <div class="item media">
                                         <button class="btn close-btn"><i class="icons icon-close"></i></button>
                                         <div class="item-thumbnail">
-                                            <img src="images/shop/2.jpg" alt="Item Thimbnail">
+                                            <img src="images/cursos/mspp.jpg" alt="Item Thimbnail">
                                         </div><!-- /.item-thumbnail -->
                                         <div class="item-details media-body">
                                             <div class="rating"><input type="hidden" class="rating-tooltip-manual" data-filled="fas fa-star" data-empty="far fa-star" value="4.5" data-fractions="5"/></div><!-- /.rating -->
 
-                                            <h4 class="item-title"><a href="#">Product Name Here</a></h4><!-- /.item-title -->
+                                            <h4 class="item-title"><a href="#">MS Power Point</a></h4><!-- /.item-title -->
                                             <div class="price">
-                                                <span class="current-price">$15.99</span><!-- /.current-price -->
+                                                <span class="current-price">S/. 200</span><!-- /.current-price -->
                                             </div><!-- /.price -->
                                             <span class="item-count">3</span>
                                         </div><!-- /.item-details -->
@@ -120,18 +123,18 @@
                                 </div><!-- /.cart-top -->
 
                                 <div class="cart-middle">
-                                    <button class="btn float-left"><i class="ti-trash"></i> Empty Cart</button>
+                                    <button class="btn float-left"><i class="ti-trash"></i> Vaciar carrito</button>
                                     <div class="price-total float-right">
                                         <span>Sub total:</span>
                                         <div class="price">
-                                            <span class="current-price">$1555.99</span><!-- /.current-price -->
+                                            <span class="current-price">S/. 400</span><!-- /.current-price -->
                                         </div><!-- /.price -->
                                     </div><!-- /.price-total -->
                                 </div><!-- /.cart-middle -->
 
                                 <div class="cart-bottom">
-                                    <a href="cart.html" class="btn float-left"><i class="icons icon-basket-loaded"></i> View Cart</a>
-                                    <a href="checkout.html" class="btn float-right">Checkout</a>
+                                    <a href="?page=carro" class="btn float-left"><i class="icons icon-basket-loaded"></i> Ver carrito</a>
+                                    <a href="#" class="btn float-right">Pagar</a>
                                 </div><!-- /.cart-bottom -->
                             </div><!-- /.widget_shopping_cart_content -->
                         </div>
