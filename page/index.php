@@ -34,10 +34,12 @@
                     <div id="course-slider" class="course-slider owl-carousel">
                         <div class="item">
                             <div class="item-thumb">
-                                <img src="images/cursos/msexcel.jpg" alt="Item Thumbnail">
+                                <a href="?page=curso">
+                                    <img src="images/cursos/msexcel.jpg" alt="Item Thumbnail">
+                                </a>
                             </div><!-- /.item-thumb -->
                             <div class="item-details">
-                                <h3 class="item-title"><a href="course-single-01.html">MS Excel 2019</a></h3><!-- /.item-title -->
+                                <h3 class="item-title"><a href="?page=curso">MS Excel 2019</a></h3><!-- /.item-title -->
                                 <div class="details-bottom">
                                     <div class="course-price float-left"><span class="currency">S/.</span><span class="price">300</span></div><!-- /.course-price -->
                                     <div class="rating float-right">
@@ -55,10 +57,12 @@
 
                         <div class="item">
                             <div class="item-thumb">
-                                <img src="images/cursos/spss.jpg" alt="Item Thumbnail">
+                                <a href="?page=curso">
+                                    <img src="images/cursos/spss.jpg" alt="Item Thumbnail">
+                                </a>
                             </div><!-- /.item-thumb -->
                             <div class="item-details">
-                                <h3 class="item-title"><a href="course-single-01.html">Estadística con SPSS</a></h3><!-- /.item-title -->
+                                <h3 class="item-title"><a href="?page=curso">Estadística con SPSS</a></h3><!-- /.item-title -->
                                 <div class="details-bottom">
                                     <div class="course-price float-left"><span class="currency">S/.</span><span class="price">350</span></div><!-- /.course-price -->
                                     <div class="rating float-right">
@@ -76,10 +80,12 @@
 
                         <div class="item">
                             <div class="item-thumb">
-                                <img src="images/cursos/msword.jpg" alt="Item Thumbnail">
+                                <a href="?page=curso">
+                                    <img src="images/cursos/msword.jpg" alt="Item Thumbnail">
+                                </a>
                             </div><!-- /.item-thumb -->
                             <div class="item-details">
-                                <h3 class="item-title"><a href="course-single-01.html">MS Word 2019</a></h3><!-- /.item-title -->
+                                <h3 class="item-title"><a href="?page=curso">MS Word 2019</a></h3><!-- /.item-title -->
                                 <div class="details-bottom">
                                     <div class="course-price float-left"><span class="currency">S/.</span><span class="price">200</span></div><!-- /.course-price -->
                                     <div class="rating float-right">
@@ -97,10 +103,12 @@
 
                         <div class="item">
                             <div class="item-thumb">
-                                <img src="images/cursos/autocad.jpg" alt="Item Thumbnail">
+                                <a href="?page=curso">
+                                    <img src="images/cursos/autocad.jpg" alt="Item Thumbnail">
+                                </a>
                             </div><!-- /.item-thumb -->
                             <div class="item-details">
-                                <h3 class="item-title"><a href="course-single-01.html">AutoCAD 2018 Básico</a></h3><!-- /.item-title -->
+                                <h3 class="item-title"><a href="?page=curso">AutoCAD 2018 Básico</a></h3><!-- /.item-title -->
                                 <div class="details-bottom">
                                     <div class="course-price float-left"><span class="currency">S/.</span><span class="price">250</span></div><!-- /.course-price -->
                                     <div class="rating float-right">
@@ -118,10 +126,12 @@
 
                         <div class="item">
                             <div class="item-thumb">
-                                <img src="images/cursos/autocad.jpg" alt="Item Thumbnail">
+                                <a href="?page=curso">
+                                    <img src="images/cursos/autocad.jpg" alt="Item Thumbnail">
+                                </a>
                             </div><!-- /.item-thumb -->
                             <div class="item-details">
-                                <h3 class="item-title"><a href="course-single-01.html">AutoCAD 2018 Intermedio</a></h3><!-- /.item-title -->
+                                <h3 class="item-title"><a href="?page=curso">AutoCAD 2018 Intermedio</a></h3><!-- /.item-title -->
                                 <div class="details-bottom">
                                     <div class="course-price float-left"><span class="currency">S/.</span><span class="price">250</span></div><!-- /.course-price -->
                                     <div class="rating float-right">
@@ -139,10 +149,12 @@
 
                         <div class="item">
                             <div class="item-thumb">
-                                <img src="images/cursos/autocad.jpg" alt="Item Thumbnail">
+                                <a href="?page=curso">
+                                    <img src="images/cursos/autocad.jpg" alt="Item Thumbnail">
+                                </a>
                             </div><!-- /.item-thumb -->
                             <div class="item-details">
-                                <h3 class="item-title"><a href="course-single-01.html">AutoCAD 2018 Avanzado</a></h3><!-- /.item-title -->
+                                <h3 class="item-title"><a href="?page=curso">AutoCAD 2018 Avanzado</a></h3><!-- /.item-title -->
                                 <div class="details-bottom">
                                     <div class="course-price float-left"><span class="currency">S/.</span><span class="price">300</span></div><!-- /.course-price -->
                                     <div class="rating float-right">
@@ -160,10 +172,12 @@
 
                         <div class="item">
                             <div class="item-thumb">
-                                <img src="images/cursos/civil3d.jpg" alt="Item Thumbnail">
+                                <a href="?page=curso">
+                                    <img src="images/cursos/civil3d.jpg" alt="Item Thumbnail">
+                                </a>    
                             </div><!-- /.item-thumb -->
                             <div class="item-details">
-                                <h3 class="item-title"><a href="course-single-01.html">Civil 3D 2019 </a></h3><!-- /.item-title -->
+                                <h3 class="item-title"><a href="?page=curso">Civil 3D 2019 </a></h3><!-- /.item-title -->
                                 <div class="details-bottom">
                                     <div class="course-price float-left"><span class="currency">S/.</span><span class="price">500</span></div><!-- /.course-price -->
                                     <div class="rating float-right">
@@ -197,7 +211,7 @@
                     <div class="item radius text-center">
                         <div class="item-thumb"><img class="radius" src="images/category/1.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
                         <div class="item-details">
-                            <a href="#">
+                            <a href="?page=categorias">
                                 <div class="item-texts">
                                     <i class="icon-layers"></i><span class="item-title">Diseño</span>
                                 </div><!-- /.item-texts -->
@@ -207,9 +221,9 @@
                     <div class="item radius text-center">
                         <div class="item-thumb"><img class="radius" src="images/category/2.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
                         <div class="item-details">
-                            <a href="#">
+                            <a href="?page=categorias">
                                 <div class="item-texts">
-                                    <i class="icon-chemistry"></i><span class="item-title">Desarrollo</span>
+                                    <i class="icon-chemistry"></i><span class="item-title">Ingeniería</span>
                                 </div><!-- /.item-texts -->
                             </a>
                         </div><!-- /.item-details -->
@@ -217,7 +231,7 @@
                     <div class="item radius text-center">
                         <div class="item-thumb"><img class="radius" src="images/category/3.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
                         <div class="item-details">
-                            <a href="#">
+                            <a href="?page=categorias">
                                 <div class="item-texts">
                                     <i class="icon-puzzle"></i><span class="item-title">IT & Software</span>
                                 </div><!-- /.item-texts -->
@@ -227,9 +241,9 @@
                     <div class="item radius text-center">
                         <div class="item-thumb"><img class="radius" src="images/category/4.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
                         <div class="item-details">
-                            <a href="#">
+                            <a href="?page=categorias">
                                 <div class="item-texts">
-                                    <i class="icon-briefcase"></i><span class="item-title">Negocios</span>
+                                    <i class="icon-briefcase"></i><span class="item-title">Gestión y Negocios</span>
                                 </div><!-- /.item-texts -->
                             </a>
                         </div><!-- /.item-details -->
@@ -237,9 +251,9 @@
                     <div class="item radius text-center">
                         <div class="item-thumb"><img class="radius" src="images/category/5.jpg" alt="Item Thumbnail"></div><!-- /.item-thumb -->
                         <div class="item-details">
-                            <a href="#">
+                            <a href="?page=categorias">
                                 <div class="item-texts">
-                                    <i class="icon-handbag"></i><span class="item-title">Marketing</span>
+                                    <i class="icon-handbag"></i><span class="item-title">Estadística</span>
                                 </div><!-- /.item-texts -->
                             </a>
                         </div><!-- /.item-details -->
@@ -272,8 +286,8 @@
         <div class="section-padding">
             <div class="container">
                 <div class="top-content text-center">
-                    <h2 class="section-title">Top Courses</h2>
-                    <p>Donec rutrum congue leo eget malesuada</p>
+                    <h2 class="section-title">Cursos especializados</h2>
+                    <p>Conviertete en un experto con estos cursos</p>
                 </div><!-- /.top-content -->
 
                 <div class="row mt-2">
@@ -284,7 +298,7 @@
                                 <div class="overlay"></div><!-- /.overlay -->
                             </div>
                             <div class="item-details">
-                                <h4 class="item-title"><a href="#">Become a WordPess Expert</a></h4><!-- /.item-title -->
+                                <h4 class="item-title"><a href="?page=categorias">Diseño estructurado con SolidWorks</a></h4><!-- /.item-title -->
                             </div><!-- /.item-details -->
                         </div><!-- /.item -->
                     </div>
@@ -297,7 +311,7 @@
                                         <div class="overlay"></div><!-- /.overlay -->
                                     </div>
                                     <div class="item-details">
-                                        <h4 class="item-title"><a href="#">Complete Python Masterclass</a></h4><!-- /.item-title -->
+                                        <h4 class="item-title"><a href="?page=categorias">Prototipos digitales con Inventor</a></h4><!-- /.item-title -->
                                     </div><!-- /.item-details -->
                                 </div><!-- /.item -->
                             </div>
@@ -308,7 +322,7 @@
                                         <div class="overlay"></div><!-- /.overlay -->
                                     </div>
                                     <div class="item-details">
-                                        <h4 class="item-title"><a href="#">Beginner to Pro in Excel</a></h4><!-- /.item-title -->
+                                        <h4 class="item-title"><a href="?page=categorias">AutoCAD Mechanical</a></h4><!-- /.item-title -->
                                     </div><!-- /.item-details -->
                                 </div><!-- /.item -->
                             </div>
@@ -320,7 +334,7 @@
                                         <div class="overlay"></div><!-- /.overlay -->
                                     </div>
                                     <div class="item-details">
-                                        <h4 class="item-title"><a href="#">The Ultimate course to become Javascript Ninja</a></h4><!-- /.item-title -->
+                                        <h4 class="item-title"><a href="?page=categorias">Programación con MATLAB</a></h4><!-- /.item-title -->
                                     </div><!-- /.item-details -->
                                 </div><!-- /.item -->
                             </div>
@@ -329,7 +343,7 @@
                 </div><!-- /.row -->
 
                 <div class="btn-container text-center bm8">
-                    <a href="#" class="btn btn-lg">Browse all</a>
+                    <a href="#" class="btn btn-lg">Ver todos</a>
                 </div>
 
             </div><!-- /.container -->
